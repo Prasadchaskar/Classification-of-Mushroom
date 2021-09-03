@@ -11,14 +11,31 @@ The standard for the name “mushroom” is the cultivated white button mushroom
   - seaborn : For enhancing the style of matplotlib plots.
   - scikit-learn -Scikit-learn is a library in Python that provides many unsupervised and supervised learning algorithms.
 
+# Setup
+To run this project, install it locally using npm:
+> pip install numpy
+> 
+> pip install pandas
+> 
+> pip install matplotlib
+> 
+> pip install seaborn
+> 
+> pip install scikit-learn
 
+# Features
+  - To detect mushrooms are edible or poisonous.
+  - Proper identification to avoid accidents.
+  
+  
+# Documents
+  - Low Level Document : [Low_Level_Design__MushroomsClassifiaction.pdf](https://github.com/Prasadchaskar/Classification-of-Mushroom/files/7107396/Low_Level_Design__MushroomsClassifiaction.pdf)
+  - High Level Document : [UGV_HLD_2.0v.pdf](https://github.com/Prasadchaskar/Classification-of-Mushroom/files/7107397/UGV_HLD_2.0v.pdf)
 
+# Conclusion
+The Mushroom classification system is a machine learning-based supervised classification model which will help us to detect which mushroom is poisonous & which is edible.
 
-
-
-
-
-
+Thank You!!!
 
 
 
